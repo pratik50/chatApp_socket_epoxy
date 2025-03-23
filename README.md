@@ -1,6 +1,6 @@
 # Chat App with Epoxy Integration
 
-This repository contains the same **Chat App** as the previous one, with the addition of **Epoxy** for efficient and flexible UI rendering.
+This repository contains the same **Chat App** as the previous one, with the addition of **Epoxy**.
 
 ### Link to the previous repository:
 
